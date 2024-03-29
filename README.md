@@ -8,6 +8,10 @@ In this repo I am collecting my works, for  personal and public references
 ### Flame project
 Flame is a game of kids. Two kinds tells two names, from their they determine relation between the
 
+### Analytics Vidhya Big Mart data analysis
+
+Today's class We discussed on data analysis mainly EDA . This is not elaborate but preliminary starting
+
 
  
 
