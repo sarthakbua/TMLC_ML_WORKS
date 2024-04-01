@@ -12,6 +12,7 @@ Flame is a game of kids. Two kinds tells two names, from their they determine re
 
 Today's class We discussed on data analysis mainly EDA . This is not elaborate but preliminary starting
 
-
+### Stayze Rent Prediction data analysis with panda
+it is regression techinique learning
  
 
