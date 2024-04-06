@@ -15,4 +15,5 @@ Today's class We discussed on data analysis mainly EDA . This is not elaborate b
 ### Stayze Rent Prediction data analysis with panda
 it is regression techinique learning
  
-
+### Rent Prediction
+The given data set is stating some information on houses at different location of the world , those are given on rent . 
