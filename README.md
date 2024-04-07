@@ -17,3 +17,6 @@ it is regression techinique learning
  
 ### Rent Prediction
 The given data set is stating some information on houses at different location of the world , those are given on rent . 
+
+### Health insurance purchase
+The company is selling health insurance, from there it is asking to predict which customer can buy the product
